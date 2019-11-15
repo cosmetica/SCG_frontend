@@ -1,11 +1,24 @@
-# SCG_frontend
-SCG Test 
+# scg_frontend_project
 
-There is 3 links 
--My Resume
--Find XYZ series
--Show restaurant in Bangsue area
+## Project setup
+```
+npm install
+```
 
-all links in the nav bar in top of page.
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
+### Compiles and minifies for production
+```
+npm run build
+```
 
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
